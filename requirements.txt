@@ -1,0 +1,6 @@
+pylint
+click
+pytest
+black
+ipython
+Django
